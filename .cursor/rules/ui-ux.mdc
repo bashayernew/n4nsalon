@@ -1,0 +1,42 @@
+---
+description: Premium UI/UX taste — composition, hierarchy, polish; never generic templates.
+alwaysApply: true
+---
+
+# UI / UX — taste & quality bar
+
+You are designing **high-end marketing sites**, not admin dashboards or bootstrap demos. Every surface should feel **intentional**, **calm**, and **expensive**.
+
+## Non-negotiables
+
+- **Never ship generic template energy**: no cookie-cutter hero + 3 icon cards + rainbow gradients + Inter-only stacks unless the user explicitly wants that.
+- **Prioritize visual hierarchy**: one clear focal point per section; supporting elements defer (size, weight, color, whitespace).
+- **Spacing is a design tool**: use a consistent scale (e.g. 4/8/12/16/24/32/48/64+). Avoid arbitrary one-off gaps; rhythm beats density.
+- **Contrast with purpose**: alternate light/dark or warm/cool bands so the page breathes — avoid endless flat same-value beige.
+- **Depth without gimmicks**: layering via subtle shadows, hairline borders, soft gradients *only* when they read as atmosphere (not neon mesh).
+
+## Composition
+
+- **Section rhythm**: clear entry (eyebrow → headline → support → CTA), predictable vertical spacing between sections.
+- **Grid discipline**: align to a clear column system; avoid orphan columns and misaligned baselines.
+- **Imagery**: large, editorial crops; respect aspect ratios; never tiny thumbnails as “hero.”
+
+## Components must feel finished
+
+- **Buttons**: clear states (default, hover, focus-visible, disabled); adequate hit area; labels that sound human, not “CLICK HERE.”
+- **Cards**: border *or* shadow, not both fighting; consistent radius; hover that’s subtle (lift, shadow, image scale ≤ 1.03).
+- **Nav**: sticky where it helps; mobile menu that feels designed, not bolted on.
+- **Forms**: labels, grouping, errors inline; no wall of inputs without structure.
+
+## Motion
+
+- **Subtle by default**: fades, small y-translate, opacity — duration ~200–500ms, easing `cubic-bezier` that feels smooth, not bouncy.
+- **No parade**: stagger sparingly; respect `prefers-reduced-motion`.
+
+## Platforms
+
+- **Desktop and mobile both premium**: touch targets, readable type, no horizontal scroll bugs, no “desktop-only” polish.
+
+## Finish line
+
+Before considering work done: **squint test** (one clear focal point?), **spacing pass**, **contrast pass**, **empty/skeleton states** if relevant, **one polish pass** on hover/focus.

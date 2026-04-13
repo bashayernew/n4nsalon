@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "siteName": "N4 Beauty Salon",
+    "siteShort": "N4 Salon",
+    "defaultDescription": "N4 Salon Kuwait — luxury hair, colour, nails, makeup, lashes, and bridal beauty. Private appointments, refined finishes, and calm, attentive service in Kuwait City.",
+    "home": {
+      "title": "Home",
+      "description": "Discover N4 Salon in Kuwait City — editorial hair and makeup, precision nails, bridal artistry, and discreet home visits, by appointment."
+    },
+    "services": {
+      "title": "Services",
+      "description": "Explore our full menu of hair, nails, makeup, lashes & brows, bridal beauty, and at-home services — each treatment tailored to you."
+    },
+    "gallery": {
+      "title": "Gallery",
+      "description": "See colour, texture, and finish the N4 way — a curated look at our work across hair, skin, nails, and bridal."
+    },
+    "about": {
+      "title": "About",
+      "description": "N4 Salon is a Kuwait beauty destination built on craft, discretion, and elevated service — hair, nails, and makeup under one roof."
+    },
+    "booking": {
+      "title": "Booking",
+      "description": "Request your next visit at N4 Salon — our team confirms every booking personally by phone or WhatsApp."
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Reach N4 Salon in Kuwait — call, message on WhatsApp, or visit during opening hours."
+    }
+  },
+  "common": {
+    "locale": { "en": "English", "ar": "العربية" },
+    "bookNow": "Book now",
+    "close": "Close",
+    "menu": "Menu",
+    "reserve": "Reserve",
+    "viewAll": "View all",
+    "learnMore": "Learn more",
+    "fromPrice": "From {price} KWD",
+    "languageSwitcherAria": "Language"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "about": "About",
+    "booking": "Booking",
+    "contact": "Contact",
+    "tagline": "Luxury beauty · Kuwait City"
+  },
+  "footer": {
+    "explore": "Explore",
+    "visit": "Visit",
+    "hours": "Hours",
+    "instagram": "Instagram",
+    "whatsapp": "WhatsApp",
+    "rights": "All rights reserved.",
+    "credit": "N4 Salon · Kuwait City"
+  },
+  "whatsapp": {
+    "aria": "Chat on WhatsApp",
+    "prefill": "Hello N4 Salon — I’d love to book an appointment. Please let me know your next availability."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "N4 Beauty Salon",
+      "sub": "Kuwait City · By private appointment",
+      "title": "Beauty, composed in quiet.",
+      "description": "From lived-in colour to glass-skin makeup and immaculate nails — every visit is unhurried, attentive, and finished like it matters. Step in for polish that feels effortless, never loud.",
+      "primaryCta": "Book an appointment",
+      "secondaryCta": "View our work",
+      "tertiaryCta": "Explore services",
+      "quote": "“The quietest rooms hold the truest luxury.”",
+      "quoteLabel": "At N4"
+    },
+    "brandIntro": {
+      "eyebrow": "Our approach",
+      "p1": "We designed N4 as a place to exhale: soft light, uncluttered stations, and artists who listen before they lift a brush. You arrive as you are — you leave feeling unmistakably yourself, only refined.",
+      "p2": "Appointments are paced with care: time to consult, to settle, and to walk back into your day with hair, skin, and nails that feel as good as they look."
+    },
+    "stats": {
+      "s1": { "label": "Thoughtful care", "detail": "Editorial techniques · premium colour & care lines" },
+      "s2": { "label": "One trusted team", "detail": "Hair, colour, makeup, nails & lashes in one calm space" },
+      "s3": { "label": "We come to you", "detail": "Select at-home visits · discreet & punctual across Kuwait" }
+    },
+    "featured": {
+      "eyebrow": "Signature treatments",
+      "title": "A first taste of N4",
+      "description": "Three favourites our clients return for — each one delivered with the same patience and precision you’ll find across our full menu.",
+      "fullMenu": "See all services"
+    },
+    "why": {
+      "eyebrow": "Why women choose N4",
+      "title": "Precision, calm, and care you can feel.",
+      "intro": "We’re here for clients who notice the small things — a seamless blend at the root, skin that looks like skin, a morning that starts on time. That’s the N4 standard.",
+      "points": {
+        "p1": { "n": "01", "title": "Space to breathe", "text": "No rushed chairs or overlapping voices — just unhurried service, soft sound, and room to enjoy the ritual." },
+        "p2": { "n": "02", "title": "Camera-ready, real-life beautiful", "text": "Hair and makeup that look as stunning in daylight as they do in photographs — never heavy, never dated." },
+        "p3": { "n": "03", "title": "Bridal & events you can trust", "text": "Clear timelines, punctual artists, and a team that shows up calm — so you can stay in the moment." }
+      }
+    },
+    "bridal": {
+      "eyebrow": "Bridal & celebrations",
+      "title": "The morning you’ve pictured — beautifully orchestrated.",
+      "description": "From trials and tweaks to the final veil moment, we design hair and makeup around your timeline, your dress, and your light. For you and your closest circle — composed, serene, unforgettable.",
+      "cta": "Book a bridal consultation"
+    },
+    "galleryPreview": {
+      "eyebrow": "Portfolio",
+      "title": "Colour, craft, confidence",
+      "description": "A curated selection of our work — dimensional colour, immaculate nails, luminous skin, and bridal looks made for real memories.",
+      "cta": "Open full gallery"
+    },
+    "testimonials": {
+      "eyebrow": "From our guests",
+      "title": "What Kuwait women tell us",
+      "intro": "Most of our clients find us through a friend. Here’s what a few have shared — in their own words — after sitting in our chairs."
+    },
+    "instagram": {
+      "eyebrow": "@n4salon",
+      "title": "On Instagram",
+      "description": "Fresh colour, behind-the-scenes bridal mornings, and the little details we love — follow along from our Kuwait studio.",
+      "cta": "Follow @n4salon"
+    },
+    "cta": {
+      "eyebrow": "Your next appointment",
+      "title": "We’d love to welcome you",
+      "description": "Tell us what you’re dreaming of — a colour refresh, event makeup, bridal prep, or a quiet hour just for you. We’ll match you with the right artist and time.",
+      "primary": "Book now",
+      "secondary": "Contact us"
+    }
+  },
+  "services": {
+    "page": {
+      "eyebrow": "Services",
+      "title": "Treatments & experiences",
+      "intro": "Every service begins with a conversation. Prices below are a guide — your stylist will confirm the exact investment after your consultation. At-home visits are available in selected areas of Kuwait.",
+      "ctaTitle": "Ready to book?",
+      "ctaDescription": "Share your hair goals, event date, or simply the mood you want — we’ll pair you with the right specialist and a time that fits your week.",
+      "ctaPrimary": "Book an appointment",
+      "ctaSecondary": "Message us on WhatsApp"
+    },
+    "categories": {
+      "hair": { "label": "Hair", "blurb": "Cuts, bespoke colour, repair rituals, and blow-dry styling — tailored to your texture and lifestyle." },
+      "nails": { "label": "Nails", "blurb": "Manicures, pedicures, and gel finishes with meticulous shaping and long-wear shine." },
+      "makeup": { "label": "Makeup", "blurb": "Soft glam, evening, and editorial looks — skin-first, always flattering on camera." },
+      "lashes": { "label": "Lashes & Brows", "blurb": "Lash lifts, extensions, tinting, and brows shaped to frame your eyes." },
+      "bridal": { "label": "Bridal", "blurb": "Trials, wedding-morning beauty, and styling for those who stand beside you." },
+      "home": { "label": "At-home service", "blurb": "Selected treatments brought to your home — discreet, punctual, and finished to salon standard." }
+    },
+    "items": {
+      "hair-1": { "title": "Signature Cut & Style", "description": "Precision cutting and blow-dry styling tailored to your texture and lifestyle.", "price": "From 35 KWD" },
+      "hair-2": { "title": "Colour & Gloss", "description": "Dimensional colour, glossing, and restorative treatments for luminous hair.", "price": "From 55 KWD" },
+      "hair-3": { "title": "Treatment Ritual", "description": "Deep conditioning and scalp care for shine, strength, and movement.", "price": "From 25 KWD" },
+      "nails-1": { "title": "Executive Manicure", "description": "Shaping, cuticle care, and a flawless polish or gel finish.", "price": "From 12 KWD" },
+      "nails-2": { "title": "Luxury Pedicure", "description": "Exfoliation, massage, and long-wear colour in a serene setting.", "price": "From 18 KWD" },
+      "makeup-1": { "title": "Soft Glam", "description": "Skin-first makeup with soft definition — perfect for events and portraits.", "price": "From 40 KWD" },
+      "makeup-2": { "title": "Evening & Editorial", "description": "Sculpted eyes, refined contour, and a finish that photographs beautifully.", "price": "From 55 KWD" },
+      "lashes-1": { "title": "Lash Lift & Tint", "description": "Natural lift and depth for eyes that look awake and polished.", "price": "From 22 KWD" },
+      "lashes-2": { "title": "Brow Sculpt", "description": "Mapping, tinting, and tidy shaping for balanced, elegant brows.", "price": "From 15 KWD" },
+      "bridal-1": { "title": "Bridal Trial", "description": "A collaborative session to refine hair, makeup, and timing before your day.", "price": "From 85 KWD" },
+      "bridal-2": { "title": "Wedding Day Beauty", "description": "Arrival-ready styling for you and your party — calm, punctual, picture-perfect.", "price": "From 120 KWD" },
+      "home-1": { "title": "At-home appointment", "description": "Enjoy select hair and beauty services in the comfort of your home — booking subject to area and availability.", "price": "From 45 KWD" }
+    }
+  },
+  "gallery": {
+    "page": {
+      "eyebrow": "Portfolio",
+      "title": "Our work, in detail",
+      "description": "Browse a selection of finishes from our Kuwait studio — dimensional colour, refined nails, luminous makeup, and bridal looks crafted for real celebrations. Every image reflects the care we bring to the chair.",
+      "ctaTitle": "Experience N4 in person",
+      "ctaDescription": "Book a consultation or your next visit — we’ll tailor your session to your hair, skin, occasion, and schedule.",
+      "ctaPrimary": "Book an appointment",
+      "ctaSecondary": "View services"
+    },
+    "filters": {
+      "all": "All",
+      "hair": "Hair",
+      "nails": "Nails",
+      "makeup": "Makeup",
+      "lashes": "Lashes & Brows",
+      "bridal": "Bridal",
+      "home": "Home service"
+    },
+    "items": {
+      "g1": { "title": "Silk Blowout", "alt": "Glossy styled hair in soft light" },
+      "g2": { "title": "Salon Atmosphere", "alt": "Minimal luxury salon interior" },
+      "g3": { "title": "Bridal Glow", "alt": "Bridal makeup portrait" },
+      "g4": { "title": "Nude Manicure", "alt": "Elegant hands with neutral nail polish" },
+      "g5": { "title": "Soft Glam", "alt": "Soft makeup look with natural skin" },
+      "g6": { "title": "Colour Dimension", "alt": "Dimensional hair colour detail" },
+      "g7": { "title": "Lash Detail", "alt": "Close-up of eyes with defined lashes" },
+      "g8": { "title": "Editorial Set", "alt": "Makeup brushes and products on marble" },
+      "g9": { "title": "Home Service", "alt": "Calm beauty setup at home" },
+      "g10": { "title": "Bridal Styling", "alt": "Bridal hair styling" },
+      "g11": { "title": "Gel Finish", "alt": "Perfect gel manicure" },
+      "g12": { "title": "Brow Definition", "alt": "Defined brows framing the face" }
+    },
+    "filterAria": "Filter gallery",
+    "lightbox": { "close": "Close preview" },
+    "categoryLabel": {
+      "hair": "Hair",
+      "nails": "Nails",
+      "makeup": "Makeup",
+      "lashes": "Lashes & Brows",
+      "bridal": "Bridal",
+      "home": "Home service"
+    }
+  },
+  "testimonials": {
+    "t1": { "quote": "My bridal trial felt like a collaboration, not a rush. They asked thoughtful questions, took their time with the trial, and the morning of the wedding ran exactly on schedule — I felt completely held.", "name": "Sara A.", "detail": "Bridal · Kuwait" },
+    "t2": { "quote": "Finally a colourist who explains what my hair actually needs. The grow-out looks intentional, not messy, and I always leave knowing how to care for it between visits.", "name": "Nour K.", "detail": "Colour & treatments" },
+    "t3": { "quote": "I book at-home visits when my week won’t allow a salon trip — same attention to detail, same serene energy, and they’re always on time.", "name": "Lulwa M.", "detail": "At-home service" }
+  },
+  "about": {
+    "page": {
+      "heroImageAlt": "N4 Salon interior — warm light and calm seating in Kuwait City",
+      "eyebrow": "About N4",
+      "title": "Kuwait’s salon for women who love quiet luxury.",
+      "storyTitle": "Rooted in restraint",
+      "storyP1": "N4 was founded on a simple idea: true luxury is calm, considered, and never loud. Our artists are trained to listen first — then shape hair, nails, and makeup with the same discipline you’d expect from a high-end editorial team.",
+      "storyP2": "Today we’re proud to be a trusted name in Kuwait City for women who expect discretion, punctuality, and results that look exquisite in real life — not only through a lens.",
+      "missionQuote": "“We don’t follow every trend. We refine what makes you unmistakably you.”",
+      "missionLabel": "— The N4 promise",
+      "valuesEyebrow": "What we stand for",
+      "valuesTitle": "Standards you’ll notice in every visit",
+      "valuesDescription": "Whether you’re in for a quick file-and-polish or a full bridal morning, these principles guide everything we do.",
+      "values": {
+        "v1": { "title": "Mastery over noise", "text": "Our team trains continuously — in colour theory, skin-forward makeup, and nail architecture — so technique always leads." },
+        "v2": { "title": "Time you can trust", "text": "We quote realistic appointment lengths and honour them — your calendar matters as much as ours." },
+        "v3": { "title": "Hospitality that soothes", "text": "Soft light, intentional spacing between clients, and a floor that stays serene from the first hello to the final mist." }
+      },
+      "teamEyebrow": "The artists",
+      "teamTitle": "Meet a few of the team",
+      "teamDescription": "These are the women behind your colour, your skin, and your nails — each hand-picked for skill, warmth, and an eye for detail.",
+      "ctaTitle": "Visit N4",
+      "ctaDescription": "New guest or returning favourite — book a first visit, a colour refresh, or a bridal conversation. We’ll take it from there.",
+      "ctaPrimary": "Book an appointment",
+      "ctaSecondary": "Get in touch"
+    },
+    "team": {
+      "tm1": { "name": "Amal R.", "role": "Lead stylist · Hair & colour", "alt": "Amal R., N4 Salon lead stylist — hair and colour specialist" },
+      "tm2": { "name": "Hessa F.", "role": "Senior makeup artist · Bridal", "alt": "Hessa F., N4 Salon senior makeup artist for bridal and events" },
+      "tm3": { "name": "Dalal S.", "role": "Nail director · Gel & care", "alt": "Dalal S., N4 Salon nail director specialising in gel and natural nails" }
+    }
+  },
+  "contact": {
+    "page": {
+      "eyebrow": "Contact",
+      "title": "We’re here when you’re ready",
+      "description": "Call during opening hours, send us a WhatsApp, or leave a message — we respond personally, in order, during salon hours."
+    },
+    "section": {
+      "title": "Visit & connect",
+      "intro": "Whether you’re booking colour, planning bridal beauty, or asking about at-home visits, our team is on hand to help — with the same warmth you’ll feel in the chair.",
+      "phone": "Phone",
+      "whatsapp": "WhatsApp",
+      "whatsappCta": "Message us",
+      "instagram": "Instagram",
+      "instagramCta": "Follow @n4salon",
+      "location": "Location",
+      "hours": "Hours",
+      "mapIframeTitle": "Salon location map",
+      "formTitle": "Send a note",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send message",
+      "success": "Thank you — we’ve received your message and will get back to you during salon hours."
+    }
+  },
+  "booking": {
+    "page": {
+      "eyebrow": "Book with us",
+      "title": "Request your appointment",
+      "description": "Walk through the steps below and tell us what you need — our concierge team reviews every request and confirms by phone or WhatsApp."
+    },
+    "steps": { "1": "Service", "2": "Specialist", "3": "Date", "4": "Time", "5": "Details" },
+    "step1": { "title": "Choose a service", "hint": "Select the primary service for this visit. You may refine details with our team after booking." },
+    "step2": { "title": "Specialist (optional)", "hint": "Request a preferred artist when available, or choose next available." },
+    "step3": { "title": "Select a date", "label": "Preferred date" },
+    "step4": { "title": "Select a time" },
+    "step5": { "title": "Your details", "name": "Full name", "phone": "Phone", "email": "Email", "homeService": "Request home service (Kuwait — subject to confirmation)", "notes": "Notes for our team", "notesPlaceholder": "Allergies, inspiration references, or timing constraints." },
+    "staff": {
+      "any": { "name": "No preference", "title": "Next available specialist" },
+      "s1": { "name": "Amal R.", "title": "Lead Stylist", "extra": "Hair · Colour" },
+      "s2": { "name": "Hessa F.", "title": "Senior Makeup Artist", "extra": "Makeup · Bridal" },
+      "s3": { "name": "Dalal S.", "title": "Nail Director", "extra": "Nails" }
+    },
+    "summary": {
+      "title": "Booking summary",
+      "service": "Service",
+      "specialist": "Specialist",
+      "datetime": "Date & time",
+      "home": "Home service",
+      "homeYes": "Requested",
+      "homeNo": "Salon visit",
+      "footnote": "Requests are reviewed by our concierge team. You will receive a confirmation message at {phone} or via WhatsApp. A card may be required to hold select appointments."
+    },
+    "actions": { "back": "Back", "continue": "Continue", "submit": "Submit request" },
+    "submitSuccess": "Thank you — we’ve received your request. Our team will contact you shortly to confirm your appointment.",
+    "formStepsAria": "Booking steps"
+  },
+  "site": {
+    "tagline": "Kuwait City · Luxury beauty · By appointment",
+    "address": "Kuwait City, Kuwait",
+    "hours": {
+      "sunThu": { "days": "Sun – Thu", "time": "10:00 – 21:00" },
+      "fri": { "days": "Fri", "time": "14:00 – 22:00" },
+      "sat": { "days": "Sat", "time": "10:00 – 20:00" }
+    }
+  },
+  "hairMasks": {
+    "section": {
+      "eyebrow": "Hair rituals",
+      "title": "Hair mask collection",
+      "subtitle": "Targeted treatments for shine, strength, and scalp health — layered like skincare, finished with salon precision.",
+      "scrollHint": "Scroll to explore"
+    },
+    "viewDetails": "View details",
+    "modal": {
+      "close": "Close"
+    },
+    "items": {
+      "hm-argan": {
+        "name": "Argan & Shea Deep Repair",
+        "preview": "Weekly repair for dry lengths — argan oil and shea butter restore elasticity and a soft, expensive finish.",
+        "imageAlt": "Jar of rich hair mask with botanical ingredients",
+        "description": "Our signature repair mask melts into dry, sensitized lengths with cold-pressed argan and whipped shea. It is designed to feel quiet and luxurious — never heavy — leaving hair supple, light-reflective, and easier to style.\n\nIdeal after colour services, sun exposure, or whenever lengths feel thirsty. Leave on as directed by your stylist; finish with a cool rinse for extra shine."
+      },
+      "hm-keratin": {
+        "name": "Keratin Silk Smoothing",
+        "preview": "Smoothing ritual for frizz-prone hair — keratin and silk amino acids polish the cuticle for glassy movement.",
+        "imageAlt": "Silky hair texture after keratin smoothing treatment",
+        "description": "A smoothing mask that works at the cuticle level: keratin helps realign and seal, while silk amino acids add slip and fluidity. Hair feels touchably soft, with frizz reduced and movement preserved — never stiff or overly flat.\n\nBest for clients who want polish without sacrificing body. Your artist will recommend timing based on texture and porosity."
+      },
+      "hm-scalp": {
+        "name": "Scalp Detox & Balance",
+        "preview": "Cooling clay and botanicals clarify the scalp — the foundation for fuller, longer-lasting volume at the root.",
+        "imageAlt": "Spa-style scalp care with natural clay mask",
+        "description": "Healthy hair begins at the root. This cooling treatment combines mineral-rich clay and purifying botanicals to lift build-up, balance oil, and refresh the scalp — without stripping.\n\nMassage in slow, deliberate circles for a spa-like release. Follow with your prescribed conditioner on mid-lengths and ends. Perfect as a seasonal reset or before intensive repair rituals."
+      },
+      "hm-rose": {
+        "name": "Rose & Honey Luminosity",
+        "preview": "Radiance-boosting mask with rose water and honey extract — designed for dull hair that needs light and life.",
+        "imageAlt": "Rose-infused beauty oil and honey for hair luminosity",
+        "description": "Inspired by skincare layering, this mask infuses rose hydrosol and honey extract to illuminate dull fibres and soften the feel of the hair surface. The result is a refined, lit-from-within shine — never glittery.\n\nUse when hair looks matte or tired, or before events where you want hair to read luminous on camera. Pair with a cool blow-dry to amplify reflection."
+      }
+    }
+  }
+}

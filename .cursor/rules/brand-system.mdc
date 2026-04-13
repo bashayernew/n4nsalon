@@ -1,0 +1,37 @@
+---
+description: Logo-first design systems — semantic tokens, typography scale, no random colors.
+alwaysApply: true
+---
+
+# Brand system & visual consistency
+
+## Identity first
+
+- **Derive the palette from the brand** (logo, IG, guidelines) — not from “default Tailwind pretty colors.”
+- If no assets exist yet: **propose a restrained luxury palette** (warm neutrals + one disciplined accent) and document it — don’t improvise per page.
+
+## Tokens before screens
+
+Before building pages, define in CSS (or tokens file):
+
+- **Surfaces**: page, secondary, elevated/card, inverse/dark, optional accent band.
+- **Text**: primary, secondary/muted, on-inverse.
+- **Borders**: default, strong, on-dark.
+- **Accent**: one **muted** accent (e.g. champagne) — use sparingly for highlights, not full-button fills unless intentional.
+- **Radius**: 1–2 steps max site-wide (e.g. sm + md).
+- **Shadow**: 1–2 elevation levels — soft, large blur, low opacity.
+- **Type scale**: display (serif optional), body, eyebrow/label styles — with line-height and letter-spacing for labels.
+
+## Implementation rules
+
+- **No scattered hex**: components reference **semantic utilities** (`bg-surface-card`, `text-muted`, `border-line`) tied to tokens.
+- **Contrast = premium**: alternate surfaces so the UI isn’t one flat sheet — still restrained.
+- **Cards & inputs** share border/shadow language with the rest of the site.
+- **Don’t invent unrelated colors** per section (no random blue links if the brand is warm neutral).
+
+## Checklist before merge
+
+- [ ] Token sheet matches brand direction  
+- [ ] All new colors mapped to tokens  
+- [ ] Dark sections use `on-inverse` text tokens  
+- [ ] Focus states visible and on-brand  

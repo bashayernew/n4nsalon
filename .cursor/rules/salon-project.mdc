@@ -1,0 +1,52 @@
+---
+description: N4 Salon — luxury beauty site; booking-first, editorial visuals, warm neutral brand.
+alwaysApply: true
+---
+
+# Project: premium beauty salon (N4)
+
+## Brand tone
+
+- **Luxurious, feminine, calm, refined** — never loud, childish, or “deal site.”
+- **Editorial photography** mindset: soft light, glossy hair, polished nails, bridal moments — even when using placeholders, **frame layouts** as if for real campaign shots.
+
+## Business goals
+
+- **Booking & trust first**: every page should make “who we are” and “how to book” obvious without feeling salesy.
+- **WhatsApp / contact** are first-class — floating or persistent entry points where appropriate.
+
+## Typical IA
+
+Likely routes: **Home, Services, Gallery, About, Booking, Contact** — navigation labels short and elegant.
+
+## Section vocabulary (home)
+
+- Premium **hero** (full-bleed or large visual + strong headline + primary CTA)
+- **Brand intro** or philosophy strip
+- **Featured services** (cards, not lists)
+- **Why us / experience**
+- **Bridal or occasion** spotlight
+- **Gallery preview** → link to full gallery
+- **Testimonials** (quoted, named, restrained — not star spam)
+- **Booking CTA** band
+- **Social / Instagram** grid (tasteful, not cluttered)
+- **Footer** with hours, location, links, social
+
+## Visual language
+
+- **Warm beige, cream, taupe, charcoal**, **subtle gold/champagne accent** only — no magenta/purple gradients, no rose-gold overload.
+- **Gallery-forward**: masonry or editorial grid, lightbox, category filters.
+- **Imagery**: portrait-friendly ratios; hero often landscape/interior or campaign crop.
+
+## UX
+
+- **Booking flow**: step clarity, summary sidebar on desktop, minimal fields per step.
+- **Forms**: calm labels, clear primary action, trust note where needed.
+- **Social proof**: reads authentic — real-sounding quotes, specific details.
+
+## Anti-patterns for this project
+
+- Generic “3 columns + emoji” feature blocks  
+- Stock startup illustration aesthetic  
+- Neon gradients, glassmorphism overload  
+- Tiny product-grid energy for a luxury service brand  

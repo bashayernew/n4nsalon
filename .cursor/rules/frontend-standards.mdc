@@ -1,0 +1,39 @@
+---
+description: Frontend engineering — structure, accessibility, Tailwind, performance, maintainability.
+alwaysApply: true
+---
+
+# Frontend standards
+
+## Architecture
+
+- **Components first**: repeated UI → component; repeated content → data (arrays, config files) + map.
+- **One responsibility per file** where reasonable; avoid 800-line pages — compose sections.
+- **Colocate**: `components/`, `data/`, `lib/` — predictable imports; use path aliases consistently (`@/`).
+
+## Styling (Tailwind)
+
+- **Utility-first, not utility-only soup**: extract patterns (cards, section shells) into components or `@apply` sparingly in CSS layers when it improves clarity.
+- **Semantic tokens**: colors/spacing via design tokens (CSS variables + theme), not random hex in class strings scattered everywhere.
+- **Responsive**: mobile-first breakpoints; verify touch targets and typography at `sm` / `md` / `lg`.
+
+## HTML & accessibility
+
+- **Semantic structure**: `header`, `main`, `nav`, `footer`, `section`, headings in order, `button` vs `a` correctly.
+- **Accessible interactions**: visible focus rings, `aria-label` on icon-only controls, dialog `role`/`aria-modal`, form labels tied to inputs.
+- **Images**: meaningful `alt`; decorative images `alt=""`; `sizes` for responsive `next/image`.
+
+## Motion
+
+- **Performant**: prefer `transform`/`opacity`; avoid animating `width`/`height`/layout thrash.
+- **Framer Motion** (or similar): scope client components; don’t wrap the entire app in `"use client"` unnecessarily.
+
+## Quality
+
+- **DRY sensibly**: abstract the third duplication, not the first.
+- **Types**: TypeScript for props and data shapes; avoid `any` for public components.
+- **Lint/format**: respect project ESLint/Prettier; fix new violations you introduce.
+
+## Forms & data
+
+- **Structured steps** for multi-step flows; clear validation messages; loading/disabled states on submit.
