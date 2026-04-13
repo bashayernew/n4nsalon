@@ -37,7 +37,10 @@
     "viewAll": "عرض الكل",
     "learnMore": "اعرفي المزيد",
     "fromPrice": "ابتداءً من {price} د.ك",
-    "languageSwitcherAria": "اللغة"
+    "languageSwitcherAria": "اللغة",
+    "notFoundTitle": "الصفحة غير موجودة",
+    "notFoundDescription": "الصفحة التي تبحثين عنها غير موجودة أو تم نقلها.",
+    "backToHome": "العودة للرئيسية"
   },
   "nav": {
     "home": "الرئيسية",

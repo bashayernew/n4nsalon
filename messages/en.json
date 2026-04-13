@@ -37,7 +37,10 @@
     "viewAll": "View all",
     "learnMore": "Learn more",
     "fromPrice": "From {price} KWD",
-    "languageSwitcherAria": "Language"
+    "languageSwitcherAria": "Language",
+    "notFoundTitle": "Page not found",
+    "notFoundDescription": "The page you're looking for doesn't exist or has been moved.",
+    "backToHome": "Back to homepage"
   },
   "nav": {
     "home": "Home",
